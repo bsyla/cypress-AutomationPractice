@@ -10,7 +10,7 @@ This repository contains code examples from the lectures. And other information 
 
 ### How to install NPM packages:
 
-`npm isntall package_name --save-dev`
+`npm install package_name --save-dev`
 
 ### How to install NPM packages globally:
 
